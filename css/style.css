@@ -494,8 +494,8 @@
 			}
 
 		.image-cropper {
-		    width: auto;
-		    height: 100%;
+		    width: 4em;
+		    height: 4em;
 		    position: relative;
 		    overflow: hidden;
 		    border-radius: 50%;
@@ -503,6 +503,7 @@
 		    margin: 0 0 1.25em 0;
 		    color: #ffffff;
 		    background: #629DD1;
+		    margin-left: -50%;
 		    font-size: 2em;
 		    text-align: center;
 		    line-height: 3em;
@@ -512,7 +513,7 @@
 		/* .profile-pic {
 		  display: inline;
 		  margin: 0 auto;
-		  margin-left: -25%; //centers the image
+		  margin-left: -50%; //centers the image
 		  height: 100%;
 		  width: auto;
 		}*/
