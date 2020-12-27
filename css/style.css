@@ -509,19 +509,19 @@
 		    box-shadow: 0 0 0 10px #fff, 0 0 0 11px rgba(144, 144, 144, 0.25);
 		}
 
-		/* .profile-pic {
-		  display: inline;
+	        .profile-pic {
+		 /* display: inline;*/
 		  margin: 0 auto;
 		  margin-left: -50%; //centers the image
-		  height: 100%;
+		  height: 50%;
 		  width: auto;
-		}*/
+		}
 
-		.profile-pic img {
+		/*.profile-pic img {
 		  width: auto;
 		  height: 50%;
 		  margin-left: -50px;
-		}
+		}*/
 
 /* List */
 
