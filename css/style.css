@@ -503,7 +503,6 @@
 		    margin: 0 0 1.25em 0;
 		    color: #ffffff;
 		    background: #629DD1;
-		    margin-left: -50%;
 		    font-size: 2em;
 		    text-align: center;
 		    line-height: 3em;
@@ -517,6 +516,12 @@
 		  height: 100%;
 		  width: auto;
 		}*/
+
+		.profile-pic img {
+		  width: auto;
+		  height: 100%;
+		  margin-left: -50px;
+		}
 
 /* List */
 
