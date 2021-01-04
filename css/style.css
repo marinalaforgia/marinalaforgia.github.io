@@ -424,8 +424,8 @@
 /* Icon */
 
 	.icon {
-		text-decoration: none;
-		border-bottom: none;
+		/*text-decoration: none;
+		border-bottom: none;*/
 		position: relative;
 	}
 
@@ -1092,6 +1092,7 @@
 	#footer {
 		background: #f8f8f8;
 		padding: 4em 0 6em 0;
+		text-align: center;
 	}
 
 		#footer a {
@@ -1122,4 +1123,5 @@
 
 		#footer .icons a {
 			color: #bbb;
+			text-align: center;
 		}
