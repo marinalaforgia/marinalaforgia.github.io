@@ -492,7 +492,8 @@
 
 			.image.fit img {
 				display: block;
-				width: 100%;
+				width: 680px;
+				height: 308px
 				}
 
 		.image-cropper {
