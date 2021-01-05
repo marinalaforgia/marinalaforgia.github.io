@@ -419,8 +419,7 @@
 		/*margin-right: 4em;
 		margin-left: 4em;*/
 		padding: 2em; 1em;
-		display: table-cell; /* Make elements inside the container behave like table cells */
-	}
+		}
 
 		.row {
 		  display: grid;
@@ -428,9 +427,9 @@
 		  gap: 5%;
 		}
 
-		.col {
+		/*.col {
 		  border: solid;
-		}
+		}*/
 
 		.box > :last-child,
 		.box > :last-child > :last-child,
@@ -528,6 +527,8 @@
 
 			.image.aboutme img {
 				display: block;
+				width: 50%;
+				height: auto
 				}
 
 		.image-cropper {
