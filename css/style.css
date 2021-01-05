@@ -512,14 +512,12 @@
 		.image.aboutme {
 			display: block;
 			margin: 0 0 1em 0;
-			width: 100%;
+			width: 50%;
 			height: 50%
 			}
 
 			.image.aboutme img {
 				display: block;
-				width: 100%;
-				height: 25%
 				}
 
 		.image-cropper {
