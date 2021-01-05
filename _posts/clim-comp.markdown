@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Climate and Competition"
+date:   2015-02-06 14:37:44
+categories: update
+---
+
+<img src="{{ site.baseurl }}/images/photo-reel/NG-sub.jpeg" class="fit image">
+To understand how competition with invaders might amplify or weaken native response to changes in precipitation, I manipulated rainfall and grass competition in an annual grassland and followed the demographic rates of six native annual forbs with variable resource acquisition strategies. I found that the presence of grass limited the capacity of all forbs to cope with climatic variability by making drought worse for resource acquisitive forbs through increased mortality and decreased seed set and by dampening the beneficial effects of watering on mortality in resource conservative forbs. This work was published in Ecology.
