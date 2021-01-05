@@ -422,6 +422,16 @@
 		display: table-cell; /* Make elements inside the container behave like table cells */
 	}
 
+		.row {
+		  display: grid;
+		  grid-auto-flow: column;
+		  gap: 5%;
+		}
+
+		.col {
+		  border: solid;
+		}
+
 		.box > :last-child,
 		.box > :last-child > :last-child,
 		.box > :last-child > :last-child > :last-child {
