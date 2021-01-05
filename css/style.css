@@ -44,8 +44,8 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+	h1, h3, h4, h5, h6 {
+		color: #666f77;
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -59,6 +59,7 @@
 		}
 
 	h2 {
+		color: #ffffff;
 		font-size: 1.5em;
 		line-height: 1.5em;
 	}
