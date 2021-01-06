@@ -60,7 +60,7 @@
 			// Small.
 				small: {
 					range: '-736',
-					href: '{{ site.baseurl }}/css/style-mobile.css',
+					href: '{{ site.baseurl }}/css/style-small.css',
 					containers: '90%',
 					grid: {
 						gutters: {
