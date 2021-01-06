@@ -55,6 +55,10 @@
 		header p {
 			text-align: center;
 		}
+		
+		header h2 {
+			text-align: center;
+		}
 
 	/*header.major {
 		width: 90%;
