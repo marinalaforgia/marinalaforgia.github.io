@@ -88,8 +88,8 @@
 /* Banner */
 
 	#banner {
-		/*background-size: 10em, 10em, auto, cover;*/
-		background-size: cover;
+		background-size: 10em, 10em, auto, cover;*/
+		/*background-size: cover;*/
 		padding: 6em 0;
 		position: fixed;
    		/*top: 0;
