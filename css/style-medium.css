@@ -112,3 +112,10 @@
 			#navPanel nav .button {
 				width: 100%;
 			}
+
+/* CTA */
+
+	#cta {
+		background-size: 15em, 15em, auto, cover;
+		padding: 3em;
+	}
