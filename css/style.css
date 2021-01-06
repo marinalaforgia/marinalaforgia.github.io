@@ -518,16 +518,7 @@
 		padding: 3em; 2em;
 		}
 
-		/*.row {
-		  display: grid;
-		  grid-auto-flow: column;
-		  gap: 5%;
-		}*/
-
-		/*.col {
-		  border: solid;
-		}*/
-
+		
 		.box > :last-child,
 		.box > :last-child > :last-child,
 		.box > :last-child > :last-child > :last-child {
@@ -544,7 +535,6 @@
 
 	.icon {
 		text-decoration: none;
-		/*border-bottom: none;*/
 		position: relative;
 	}
 
@@ -1325,7 +1315,8 @@
 		color: white;
 		padding: 5em;
 		text-align: center;
-	}
+		position: relative;
+		}
 
 		#cta header {
 			margin-bottom: 2em;
@@ -1334,6 +1325,10 @@
 		#cta h2 {
 			color: #ffffff;
 		}
+
+		/*#cta .container{
+			position: relative;
+		}*/
 
 /* Footer */
 
