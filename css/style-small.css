@@ -52,17 +52,17 @@
 	#banner {
 		background-size: 10em, 10em, auto, cover;
 		padding: 6em 0;
-		background-attachment: fixed;
+		background-attachment: scroll, scroll, scroll, fixed;
 	}
 
 		#banner .inner {
-			/*background: none;*/
 			display: block;
 			padding: 0 1.5em;
 		}
 
 			#banner .inner header h2 {
 				font-size: 1.5em;
+				text-align: center;
 			}
 
 			#banner .inner p {
@@ -91,7 +91,7 @@
 
 	#cta {
 		background-size: 10em, 10em, auto, cover;
-		background-attachment: fixed;
+		background-attachment: scroll, scroll, scroll, fixed;
 		padding: 3em 1.5em;
 	}
 
