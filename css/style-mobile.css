@@ -9,13 +9,18 @@
 		letter-spacing: 0.1em;
 	}
 
+	hmain {
+		font-size: 1.25em;
+		letter-spacing: 0.1em;
+	}
+
 	h3 {
 		font-size: 1em;
 		letter-spacing: 0.025em;
 	}
 
 	p {
-		text-align: justify;
+		text-align: center;
 	}
 
 /* Section/Article */
