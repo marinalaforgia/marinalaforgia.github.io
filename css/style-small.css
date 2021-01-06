@@ -50,6 +50,32 @@
 /* Banner */
 
 	#banner {
+		background-size: 10em, 10em, auto, cover;
+		padding: 6em 0;
+		background-attachment: fixed;
+	}
+
+		#banner .inner {
+			background: none;
+			display: block;
+			padding: 0 1.5em;
+		}
+
+			#banner .inner header h2 {
+				font-size: 1.5em;
+			}
+
+			#banner .inner p {
+				text-align: center;
+			}
+
+			#banner .inner br {
+				display: none;
+			}
+
+/* Banner */
+
+/*	#banner {
 		padding: 5em 2em 4em 2em;
 	}
 
@@ -59,7 +85,15 @@
 
 		#banner p {
 			font-size: 1.25em;
-		}
+		} */
+
+/* CTA */
+
+	#cta {
+		background-size: 10em, 10em, auto, cover;
+		background-attachment: fixed;
+		padding: 3em 1.5em;
+	}
 
 /* Main */
 
@@ -74,7 +108,7 @@
 	}
 
 		#footer .copyright {
-			text-align: left;
+			text-align: center;
 		}
 
 			#footer .copyright li {
