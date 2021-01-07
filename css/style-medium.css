@@ -126,7 +126,7 @@
 /* CTA */
 
 	#cta {
-		background-size: cover;
+		background-attachment: fixed;
 		padding: 4em 0 2em 0;
 	}
 
