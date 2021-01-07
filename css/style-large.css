@@ -24,5 +24,6 @@
 /* Footer */
 
 	#footer {
+		background-attachment: scroll;
 		padding: 4em 0;
 	}
