@@ -1140,12 +1140,13 @@
 /* Banner */
 
 	#banner {
+		background-attachment: fixed;
 		background-color: #666666;
 		background-image: url("../images/FRPU3.jpeg");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
-		/*color: #d8d8d8;*/
+		color: #ffffff;
 		padding: 14em 0;
 		text-align: center;
 		position: relative;
