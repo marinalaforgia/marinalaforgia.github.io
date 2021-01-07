@@ -88,7 +88,15 @@
 /* Banner */
 
 	#banner {
+		background-repeat: no-repeat;
+    		min-height: 100vh;
+    		min-width: 100vw;
+    		background-size: cover;
+    		position: relative;
+    		background-attachment: fixed;
 		padding: 6em 0;
+		max-height: 100vh;
+		overflow-y: scroll;
 		}
 
 		#banner .inner {
