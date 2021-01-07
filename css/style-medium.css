@@ -34,6 +34,12 @@
 		padding: 6em 1em;
 	}
 
+		#banner .inner {
+			background: none;
+			display: block;
+			padding: 0 1.5em;
+		}
+
 		#banner .button {
 			min-width: 0;
 		}
