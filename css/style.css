@@ -1126,7 +1126,7 @@
 					}
 
 		#header .container {
-			position: relative;
+			position: absolute;
 		}
 
 			#header .container h1 {
