@@ -40,12 +40,10 @@
 
 		header.major {
 			padding-bottom: 0;
-			width: 90%;
-			margin: 0 auto;
-		}
+			}
 
 		header.major h2 {
-			font-size: 1.25em;
+			font-size: 1.35em;
 		}
 
 		header.major h2 + p {
@@ -76,6 +74,17 @@
 		}
 				
 
+	/*header.major {
+		width: 90%;
+		margin: 0 auto;
+	}
+		header.major h2 {
+			font-size: 1.5em;
+		}
+		header.major h2 + p {
+			font-size: 1.25em;
+			margin: -0.5em 0 2em 0;
+		}*/
 /* Wrapper */
 
 	.wrapper {
@@ -105,8 +114,8 @@
 				font-size: 1.5em;
 			}
 
-		#banner hmain {
-			font-size: 2em;
+		#banner .inner hmain {
+			font-size: 1.5em;
 		}
 
 			#banner .inner p {
