@@ -53,6 +53,11 @@
 			min-width: 0;
 		}
 
+/* Icon */
+	.icon.major {
+		width: 2em;
+		height: 2em;
+		}
 
 /* Layers */
 
