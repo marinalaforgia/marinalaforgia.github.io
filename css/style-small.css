@@ -11,7 +11,7 @@
 	}
 
 	hmain {
-		font-size: 1.35em;
+		font-size: 1.5em;
 		line-height: 1.5em;
 	}
 
@@ -111,9 +111,9 @@
 				font-size: 1.5em;
 			}
 
-		#banner .inner hmain {
+		/*#banner .inner hmain {
 			font-size: 2em;
-		}
+		}*/
 
 			#banner .inner p {
 				text-align: center;
