@@ -1220,7 +1220,7 @@
 	@keyframes reveal-banner { 0% { opacity: 0; } 100% { opacity: 1; } }
 
 	#banner {
-		background-attachment: scroll;
+		background-attachment: fixed;
 		background-color: #645862;
 		background-image: url("../images/FRPU3.jpeg");
 		background-position: top center;
