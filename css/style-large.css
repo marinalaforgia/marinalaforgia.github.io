@@ -24,8 +24,12 @@
 		padding: 8em 0;
 	}
 
-		#banner h2 {
+		#banner hmain {
 			font-size: 2.5em;
+		}
+		
+		#banner .inner {
+			padding: 2em;
 		}
 
 /* Footer */
