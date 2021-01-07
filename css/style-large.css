@@ -13,6 +13,7 @@
 /* Banner */
 
 	#banner {
+		background-attachment: fixed
 		padding: 8em 0;
 	}
 
