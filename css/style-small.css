@@ -40,8 +40,18 @@
 
 		header.major {
 			padding-bottom: 0;
+			width: 90%;
+			margin: 0 auto;
 		}
 
+		header.major h2 {
+			font-size: 1.25em;
+		}
+
+		header.major h2 + p {
+			font-size: 1.25em;
+			margin: -0.5em 0 2em 0;
+			
 		header.special {
 			margin-bottom: 3em;
 			padding-left: 1.5em;
@@ -65,19 +75,6 @@
 			text-align: center;
 		}
 				
-	/*header.major {
-		width: 90%;
-		margin: 0 auto;
-	}
-
-		header.major h2 {
-			font-size: 1.5em;
-		}
-
-		header.major h2 + p {
-			font-size: 1.25em;
-			margin: -0.5em 0 2em 0;
-		}*/
 
 /* Wrapper */
 
