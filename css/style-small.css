@@ -94,15 +94,12 @@
 /* Banner */
 
 	#banner {
+		background-position: center center;
 		background-repeat: no-repeat;
-    		min-height: 100vh;
-    		min-width: 100vw;
-    		background-size: cover;
-    		position: relative;
-    		background-attachment: fixed;
+		color: #d8d8d8;
+		text-align: center;
+		position: relative;
 		padding: 6em 0;
-		max-height: 100vh;
-		overflow-y: scroll;
 		}
 
 		#banner .inner {
