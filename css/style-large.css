@@ -10,6 +10,13 @@
 		font-size: 11pt;
 	}
 
+/* Wrapper */
+
+	.wrapper {
+		padding-left: 0.5em;
+		padding-right:0.5em;
+	}
+
 /* Banner */
 
 	#banner {
