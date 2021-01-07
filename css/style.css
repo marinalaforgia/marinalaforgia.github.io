@@ -1183,9 +1183,9 @@
 			display: inline-block;
 			/*color: white;*/
 			opacity: 0;
-			text-align: center;*/
+			text-align: center;
 			padding: 3em;
-			position: relative;
+			/*position: relative;
 			/*z-index: 1;*/
 		}
 
