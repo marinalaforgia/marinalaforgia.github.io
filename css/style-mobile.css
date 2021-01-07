@@ -139,6 +139,7 @@
 
 		#banner .inner {
 			display: block;
+			background: none;
 			padding: 0 1.5em;
 		}
 
