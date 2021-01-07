@@ -32,7 +32,7 @@
 
 	#banner {
 		padding: 6em 1em;
-		background-size: 100vw auto;
+		background-size: auto 100vw;
 		background-position: top center;
   		background-attachment: fixed;
 		background-repeat: no-repeat;
