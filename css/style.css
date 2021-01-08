@@ -44,7 +44,7 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6, hlink {
+	h1, h2, h3, h4, h5, h6, {
 		color: #666f77;
 		font-weight: 300;
 		line-height: 1em;
@@ -55,12 +55,9 @@
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
-			text-decoration: none;
-		}
-
-		hlink {
 			text-decoration: underline;
 		}
+
 
 	hmain {
 		color: #ffffff;
@@ -72,12 +69,6 @@
 	
 	h2 {
 		font-size: 1.5em;
-		line-height: 1.5em;
-	}
-
-	hlink {
-		color: #666f77;
-		font-size: 1em;
 		line-height: 1.5em;
 	}
 
