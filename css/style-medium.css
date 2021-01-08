@@ -46,7 +46,7 @@
 
 		#banner .inner {
 			display: block;
-			padding: 0 1em;
+			padding: 0 1em 1em 1em;
 		}
 
 		#banner .button {
@@ -57,7 +57,7 @@
 	.icon.major {
 		width: 2em;
 		height: 2em;
-		line-height: inherit;
+		line-height: 2em;
 		}
 
 /* Layers */
