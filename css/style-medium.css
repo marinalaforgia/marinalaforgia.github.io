@@ -57,7 +57,7 @@
 	.icon.major {
 		width: 2em;
 		height: 2em;
-		padding: 1em 0;
+		line-height: inherit;
 		}
 
 /* Layers */
