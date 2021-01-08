@@ -32,9 +32,15 @@
 			padding: 2em;
 		}
 
+/* CTA */
+
+	#cta {
+		background-attachment: scroll;
+		padding: 4em 0;
+	}
+
 /* Footer */
 
 	#footer {
-		background-attachment: scroll;
 		padding: 4em 0;
 	}
