@@ -59,7 +59,6 @@
 		}
 
 		hlink {
-			color: inherit;
 			text-decoration: underline;
 		}
 
@@ -77,6 +76,7 @@
 	}
 
 	hlink {
+		color: #666f77;
 		font-size: 1em;
 		line-height: 1.5em;
 	}
