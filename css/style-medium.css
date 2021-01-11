@@ -12,6 +12,11 @@
 		font-size: 12pt;
 	}
 
+/* Flex Container*/
+	.flex-container {
+	  flex-flow: row wrap;
+	}
+
 /* Wrapper */
 
 	.wrapper {
