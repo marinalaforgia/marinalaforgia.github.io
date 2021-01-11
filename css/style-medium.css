@@ -15,6 +15,7 @@
 /* Flex Container*/
 	.flex-container {
 	  flex-flow: row wrap;
+	  margin: 0 1em;
 	}
 
 /* Wrapper */
