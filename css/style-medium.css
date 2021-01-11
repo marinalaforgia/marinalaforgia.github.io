@@ -18,6 +18,9 @@
 	  margin: 0 1em;
 	}
 
+	.flex-item {
+		width: 75%;
+
 /* Wrapper */
 
 	.wrapper {
