@@ -514,7 +514,7 @@
 /* Box */
 	.flex-container {
 	  display: flex;
-	  flex-direction: row;
+	  flex-flow: row wrap;
 	  justify-content: space-around;
 	  padding: 0;
 	  margin: 0;
