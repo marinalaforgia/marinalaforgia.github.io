@@ -116,6 +116,10 @@
 	});
 
 	$(function() {
+		var	$window = $(window),
+			$body = $('body'),
+			$header = $('#header'),
+			$banner = $('#banner');
 		
 		$body.addClass('is-loading');
 			
