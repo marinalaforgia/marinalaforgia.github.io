@@ -47,7 +47,7 @@
 /* Banner */
 
 	#banner {
-		padding: 6em 1em;
+		padding: 6em 0.5em;
 		background-size: auto 100vw;
 		background-position: top center;
   		background-attachment: scroll;
