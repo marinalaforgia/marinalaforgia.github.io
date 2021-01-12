@@ -18,9 +18,15 @@
         {% include /footer.html %}
 
 	<script>
-		$(window).load(function() {
+		/*$(window).load(function() {
 		  $("body").removeClass("preload");
+		});*/
+		$body.addClass('is-loading');
+			
+		$window.on('load', function() {
+			$body.removeClass('is-loading');
 		});
+		
 	</script>
     </body>
 
