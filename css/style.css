@@ -166,8 +166,13 @@
 		float: right;
 	}
 
-
-
+/* preload */
+	.preload * {
+	  -webkit-transition: none !important;
+	  -moz-transition: none !important;
+	  -ms-transition: none !important;
+	  -o-transition: none !important;
+	}
 		
 /* Slideshow*/
 	* {box-sizing:border-box}
