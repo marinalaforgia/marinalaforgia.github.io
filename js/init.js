@@ -116,24 +116,28 @@
 	});
 
 	$(function() {
-		
-		// jQuery ready stuff.
-		
-	});
-	
-$(function() {
-
-		var	$window = $(window),
-			$body = $('body'),
-			$header = $('#header'),
-			$banner = $('#banner');
-
-		// Disable animations/transitions until the page has loaded.
-			$body.addClass('is-loading');
+		var $body.addClass('is-loading');
 			
 			$window.on('load', function() {
 				$body.removeClass('is-loading');
 			});
+		// jQuery ready stuff.
+		
+	});
+	
+//$(function() {
+//
+//		var	$window = $(window),
+//			$body = $('body'),
+//			$header = $('#header'),
+//			$banner = $('#banner');
+//
+		// Disable animations/transitions until the page has loaded.
+//			$body.addClass('is-loading');
+//			
+//			$window.on('load', function() {
+//				$body.removeClass('is-loading');
+//			});
 
 		// CSS polyfills (IE<9).
 			//if (skel.vars.IEVersion < 9)
@@ -182,6 +186,6 @@ $(function() {
 //			
 //			}
 
-	});
+//	});
 
 })(jQuery);
