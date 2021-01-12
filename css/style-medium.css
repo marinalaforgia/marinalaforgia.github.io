@@ -56,9 +56,9 @@
 
 		#banner .inner {
 			display: block;
-			padding: 1em 0;
-			margin-left: 1em;
-			margin-right: 1em;
+			padding: 0.5em;
+			margin-left: 0.5em;
+			margin-right: 0.5em;
 		}
 
 		#banner .button {
