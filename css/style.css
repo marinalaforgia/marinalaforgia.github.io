@@ -14,6 +14,19 @@
 		background: #fff;
 	}
 
+	body.is-loading * {
+		-moz-animation: none !important;
+		-webkit-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+		-moz-transition: none !important;
+		-webkit-transition: none !important;
+		-o-transition: none !important;
+		-ms-transition: none !important;
+		transition: none !important;
+	}
+
 	body, input, select, textarea {
 		color: #555f66;
 		font-family: "Roboto", Helvetica, sans-serif;
@@ -164,14 +177,6 @@
 
 	.float-right {
 		float: right;
-	}
-
-/* preload */
-	.preload * {
-	 -webkit-transition: none !important;
-	 -moz-transition: none !important;
-	 -ms-transition: none !important;
-	 -o-transition: none !important;
 	}
 		
 /* Slideshow*/
