@@ -118,8 +118,10 @@
 	$(function() {
 		
 		// jQuery ready stuff.
-		
+		$(window).load(function() {
+  		$("body").removeClass("preload");
 	});
 	
+});
 
 })(jQuery);
