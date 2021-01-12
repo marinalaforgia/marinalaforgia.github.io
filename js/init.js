@@ -120,7 +120,5 @@
 		// jQuery ready stuff.
 
 	});
-	
-});
 
 })(jQuery);
