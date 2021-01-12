@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Climate and Competition"
-date:   2015-02-06 14:37:44
-categories: update
 ---
 
 <img src="{{ site.baseurl }}/images/photo-reel/NG-sub.jpeg" class="fit image">
