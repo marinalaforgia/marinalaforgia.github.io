@@ -316,6 +316,7 @@
 
 		header.major h2 {
 			font-size: 2em;
+			margin-bottom: -1em;
 		}
 
 		header.major h2 + p {
